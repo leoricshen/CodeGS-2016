@@ -1,0 +1,21 @@
+.header {
+	height: 150px;
+	width: 100%;
+	//background-color: #6a95c7;
+	background-image: url("../../../../MyComponent/img/header_map.png");
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	padding-top: 30px;
+	border-bottom: 1px solid white;
+
+	.link-button {
+		float: right;
+		margin-right: 20px;
+	}
+	
+}
+
+.title{
+	font-size:30px;
+}

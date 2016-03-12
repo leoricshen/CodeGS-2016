@@ -1,0 +1,21 @@
+{
+    "state":
+    {
+        "cityName": "New York"
+    },
+    "type": "MyComponent",
+    "title": "My component.",
+    "blurb": "A component to show you the basics",
+    "layouts":
+    {
+        "web":
+            {
+                "col": 1,
+                "row": 2,
+                "size_x": 6,
+                "size_y": 5
+            },
+        "mobile": {},
+        "print": {}
+    }
+}
